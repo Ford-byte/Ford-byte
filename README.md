@@ -1,9 +1,9 @@
-<h1>I am Clifford Jay L. Iyac</h1>
+<h1>I am Ford-byte Jay L. Iyac</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=Clifford&color=268F77)
+![Profile views](https://komarev.com/ghpvc/?username=Ford-byte&color=268F77)
 
 ---
 
@@ -33,14 +33,14 @@ My GitHub Stats
 <p align="center">
   <!-- Main GitHub Stats and Streaks -->
   <img 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Clifford&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" 
-    alt="Clifford's GitHub Stats" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ford-byte&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" 
+    alt="Ford-byte's GitHub Stats" 
     width="49%" 
     style="margin: 0 10px;" 
   />
   <img 
-    src="https://streak-stats.demolab.com/?user=Clifford&theme=gotham&hide_border=true" 
-    alt="Clifford's GitHub Streaks" 
+    src="https://streak-stats.demolab.com/?user=Ford-byte&theme=gotham&hide_border=true" 
+    alt="Ford-byte's GitHub Streaks" 
     width="49%" 
     style="margin: 0 10px;" 
   />
@@ -49,8 +49,8 @@ My GitHub Stats
 <p align="center">
   <!-- Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Clifford&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" 
-    alt="Clifford's GitHub Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ford-byte&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" 
+    alt="Ford-byte's GitHub Activity Graph" 
     width="100%" 
     style="margin-top: 20px;" 
   />
@@ -59,8 +59,8 @@ My GitHub Stats
 <p align="center">
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clifford&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="Clifford's Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ford-byte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+    alt="Ford-byte's Top Languages" 
     width="60%" 
     style="margin-top: 20px;" 
   />
