@@ -1,4 +1,4 @@
-<h1>I am Ford-byte Jay L. Iyac</h1>
+<h1>I am Clifford Jay L. Iyac</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)
 <br />
