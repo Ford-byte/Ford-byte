@@ -1,67 +1,83 @@
-<h1>I am Clifford Jay L. Iyac</h1>
+# Hi there, I'm Clifford Jay L. Iyac 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)
-<br />
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver;Always+Learning+New+Things)
 
-![Profile views](https://komarev.com/ghpvc/?username=Ford-byte&color=268F77)
+![Profile Views](https://komarev.com/ghpvc/?username=Ford-byte&color=2F81F7&style=flat-square&label=Profile+Views)
 
----
-
-Skills
-#### Frontend
-
-Languages: HTML5, CSS3, JavaScript
-Frameworks/Libraries: Strapijs,NextJs(React), Vue js
-Styling:   Tailwind CSS
-Tools: npm
-
-#### Backend
-
-Frameworks: Node(Express.js)
-Databases: MySQL
-APIs: RESTful
-Authentication/Authorization: JWT
-
-#### DevOps
-
-Version Control: Git, GitHub, Bitbucket
-
+</div>
 
 ---
 
-My GitHub Stats
-<p align="center">
-  <!-- Main GitHub Stats and Streaks -->
-  <img 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ford-byte&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" 
-    alt="Ford-byte's GitHub Stats" 
-    width="49%" 
-    style="margin: 0 10px;" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com/?user=Ford-byte&theme=gotham&hide_border=true" 
-    alt="Ford-byte's GitHub Streaks" 
-    width="49%" 
-    style="margin: 0 10px;" 
-  />
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ford-byte&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" 
-    alt="Ford-byte's GitHub Activity Graph" 
-    width="100%" 
-    style="margin-top: 20px;" 
-  />
-</p>
+I'm a passionate **Full Stack Web Developer** who loves creating efficient, scalable, and user-friendly applications. I enjoy working with modern technologies and am always eager to learn and adapt to new challenges.
 
-<p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ford-byte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="Ford-byte's Top Languages" 
-    width="60%" 
-    style="margin-top: 20px;" 
-  />
-</p>
+---
+
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** Next.js (React), Vue.js, Strapi.js
+- **Styling:** Tailwind CSS, CSS Modules
+- **Package Management:** npm, yarn
+
+### **Backend Development**
+- **Runtime:** Node.js
+- **Frameworks:** Express.js
+- **Databases:** MySQL, MongoDB
+- **APIs:** RESTful APIs, GraphQL
+- **Authentication:** JWT, OAuth
+
+### **DevOps & Tools**
+- **Version Control:** Git, GitHub, Bitbucket
+- **Development Tools:** VS Code, Postman
+- **Deployment:** Vercel, Netlify, Heroku
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ford-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ford-byte&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com/?user=Ford-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ford-byte&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+⭐ Feel free to star my repositories if you find them interesting!
+
+</div>
