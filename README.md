@@ -19,22 +19,22 @@ I'm a passionate **Full Stack Web Developer** who loves creating efficient, scal
 ## 🛠️ Technical Skills
 
 ### **Frontend Development**
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** Next.js (React), Vue.js, Strapi.js
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), PHP 
+- **Frameworks/Libraries:** Next.js (React), Vue.js, Strapi.js, Sanity
 - **Styling:** Tailwind CSS, CSS Modules
-- **Package Management:** npm, yarn
+- **Package Management:** npm
 
 ### **Backend Development**
 - **Runtime:** Node.js
 - **Frameworks:** Express.js
 - **Databases:** MySQL, MongoDB
-- **APIs:** RESTful APIs, GraphQL
+- **APIs:** RESTful APIs, GROQ
 - **Authentication:** JWT, OAuth
 
 ### **DevOps & Tools**
 - **Version Control:** Git, GitHub, Bitbucket
 - **Development Tools:** VS Code, Postman
-- **Deployment:** Vercel, Netlify, Heroku
+- **Deployment:** Vercel, Netlify
 
 ---
 
